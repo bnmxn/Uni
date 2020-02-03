@@ -1,5 +1,5 @@
 # Uni
-##12.2 Markdown
+## Uni
 
 - ungeordnete Aufzählung 1
 - ungeordnete Aufzählung 2
