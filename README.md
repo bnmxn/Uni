@@ -9,4 +9,4 @@
 2. geordnete Aufzählung 2
 3. geordnete Aufzählung 3
 
-Ich hoffe [das](##Uni) ist ein Querverweis.
+Ich hoffe [das](#markdown-header-Uni) ist ein Querverweis.
