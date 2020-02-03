@@ -1,5 +1,5 @@
 # Uni
-#markdown-header-Uni
+
 ## Uni
 
 - ungeordnete Aufzählung 1
@@ -10,4 +10,4 @@
 2. geordnete Aufzählung 2
 3. geordnete Aufzählung 3
 
-Ich hoffe [das](#markdown-header-Uni) ist ein Querverweis.
+Ich hoffe [das](#Uni) ist ein Querverweis.
